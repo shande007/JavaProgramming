@@ -3,11 +3,11 @@ package Conditional_Statements;
 public class Prog17_SwitchCaseWeek {
     public static void main(String[] args) {
 
-        int weekno=1;
+        int weekno=8;
 
         switch(weekno)
         {
-            case 1: System.out.println("Sunday"); break;
+            case 1: System.out.println("Sunday");break;
             case 2: System.out.println("Monday"); break;
             case 3: System.out.println("Tuesday"); break;
             case 4: System.out.println("Wednesday");break;
@@ -15,6 +15,7 @@ public class Prog17_SwitchCaseWeek {
             case 6: System.out.println("Friday"); break;
             case 7: System.out.println("Saturday");	break;
             default: System.out.println("Invalid week number");
+
         }
     }
 }

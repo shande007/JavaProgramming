@@ -1,4 +1,4 @@
-package Day1_Java_Basic;
+package Operators;
 
 public class Prog3_RelationalOperators {
     public static void main(String[] args) {

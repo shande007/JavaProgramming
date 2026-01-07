@@ -1,4 +1,4 @@
-package Day1_Java_Basic;
+package Operators;
 
 public class Prog5_Increment_Decrement_Operators {
     public static void main(String[] args) {

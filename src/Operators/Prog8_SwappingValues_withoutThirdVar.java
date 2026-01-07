@@ -1,4 +1,4 @@
-package Day1_Java_Basic;
+package Operators;
 
 public class Prog8_SwappingValues_withoutThirdVar {
     public static void main(String[] args) {
