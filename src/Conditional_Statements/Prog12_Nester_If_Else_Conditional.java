@@ -2,29 +2,40 @@ package Conditional_Statements;
 
 public class Prog12_Nester_If_Else_Conditional {
     public static void main(String[] args) {
-        /*
-        Pre-requisite: all the numbers are having different values
 
-        a>b and a>c   -- a is largest
-        b>a  and b>c   --- b is largest
-        c>a and c>b   -- c largest
+		/*
+		if(false)
+		{
+			System.out.println(1);
+		}
+		else
+		{
+			System.out.println(2);
+		}
+		*/
 
-        */
-        int a=10, b=40,c=30;
-
-        if(a>b && a>c)
+        if(1==1)
         {
-            System.out.println("a is largest number");
-        }
-        else if(b>a && b>c)
-        {
-            System.out.println("b is largest number");
+            if(2==1)
+            {
+                System.out.println("ABC");
+            }
+            else
+            {
+                System.out.println("123");
+            }
         }
         else
         {
-            System.out.println("c is largest number");
+            if(3==3)
+            {
+                System.out.println("XYZ");
+            }
         }
 
+
+
     }
+
 
 }
