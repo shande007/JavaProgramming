@@ -1,6 +1,6 @@
 package Conditional_Statements;
 
-public class If_Condition {
+public class Prog10_If_Condition {
     public static void main(String[] args) {
 
         int person_age=20;
