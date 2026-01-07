@@ -25,5 +25,9 @@ public class Prog1_Var_DataTypes {
         System.out.println("Value of g is "+ g);
         System.out.println("Value of h is "+ h);
 
+        // Non- primitive data types
+
+        String name = "Sidhant";
+        System.out.println("Value of String is : "+ name);
     }
 }
