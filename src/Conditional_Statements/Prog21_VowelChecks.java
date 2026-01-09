@@ -7,8 +7,8 @@ public class Prog21_VowelChecks {
 
             if (ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' ||
                     ch == 'I' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U')
-                System.out.println("Vowel");
+                System.out.println("It is Vowel");
             else
-                System.out.println("Consonant");
+                System.out.println("It is Consonant");
     }
 }
