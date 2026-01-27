@@ -1,4 +1,4 @@
-package Array_Single;
+package Star_Patterns;
 
 import java.util.Scanner;
 
