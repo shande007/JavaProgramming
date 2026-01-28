@@ -1,0 +1,22 @@
+package S2_Conditional_Statements;
+
+public class Prog14_EvenOrOddNumber {
+    public static void main(String[] args) {
+
+        int num=11;
+
+
+        if(num%2==0)
+        {
+            System.out.println("Even number");
+        }
+        else
+        {
+            System.out.println("Odd number");
+        }
+
+
+
+    }
+
+}
