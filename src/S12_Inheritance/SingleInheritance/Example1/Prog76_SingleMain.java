@@ -1,4 +1,4 @@
-package S12_Inheritance.SingleInheritance;
+package S12_Inheritance.SingleInheritance.Example1;
 
 public class Prog76_SingleMain {
     public static void main(String[] args) {
@@ -11,8 +11,6 @@ public class Prog76_SingleMain {
         System.out.println(f1.gold_f);
         f1.bhk2();;
         // f1.bhk3();       // father will not access son properties
-
-
-
-    }
+   }
 }
+
