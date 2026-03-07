@@ -14,7 +14,7 @@ public class Prog104_Array_Problem {
         // 3. wastage of memory for the 9 elements
         // 4. insertion and deletion is heavy operation.
 
-        List arrayList = new ArrayList();
+//        List arrayList = new ArrayList();
 
     }
 
