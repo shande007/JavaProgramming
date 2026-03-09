@@ -1,4 +1,4 @@
-package S21_Collection_Framework.CF2_Stack;
+package S21_Collection_Framework.CF3_STACK;
 import java.util.Stack;
 
 public class Prog113_Stack {
