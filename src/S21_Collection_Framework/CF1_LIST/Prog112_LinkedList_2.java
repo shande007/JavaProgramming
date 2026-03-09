@@ -10,7 +10,7 @@ public class Prog112_LinkedList_2 {
         mylist.add(1);
         mylist.add("Sidhant");
         mylist.add(3);
-        mylist.add(4);
+        mylist.add(4);  
         mylist.add(4);
         System.out.println(mylist);
 
